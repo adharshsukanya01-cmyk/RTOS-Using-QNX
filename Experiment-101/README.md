@@ -53,7 +53,7 @@ int main(void) {
 }
 ```
 ## Output
-
+![f278864c-e854-4b2e-9ee3-589efc15db26](https://github.com/user-attachments/assets/fcdfea94-c2a5-4554-ae69-7f6f005e3725)
 ---
 
 ## Result
