@@ -30,7 +30,7 @@ State 3 → State 0
 ```
 
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
-
+![alt text](0edae26c-73fb-4be2-a036-15e52092b206.jpg)
 ---
 
 # Algorithm
