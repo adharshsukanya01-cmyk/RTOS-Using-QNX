@@ -125,7 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
-
+![alt text](fc76c13b-3435-433a-82c4-862b26d913f2.jpg)
 ---
 
 # Result
